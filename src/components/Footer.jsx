@@ -25,14 +25,12 @@ export default function Footer() {
         </div>
 
         <p className="text-white/75 text-[15px] leading-6 max-w-[540px]">
-          Audiophile is an all-in-one stop to fulfill your audio needs. We're a small team of music
-          lovers and sound specialists who are devoted to helping you get the most out of personal
-          audio. Come and visit our demo facility - we’re open 7 days a week.
+          Audiophile is an all in one stop to fulfill your audio needs. We're a small team <br /> of music lovers and sound specialists who are devoted to helping you get the <br /> most out of personal audio. Come and visit our demo facility - we’re open 7 <br /> days a week.
         </p>
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-white/50 text-[15px]">
-            © 2021 Audiophile. All Rights Reserved
+            Copyright 2021. All Rights Reserved
           </p>
 
           <div className="flex gap-4">

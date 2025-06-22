@@ -40,7 +40,7 @@ export default function Card({
         </p>
         <Link
           href={`/${category}/${slug}`}
-          className="bg-orange-500 hover:bg-orange-600 text-white text-[13px] font-semibold uppercase tracking-[1px] px-8 py-4"
+          className="bg-[#D87D4A] hover:bg-orange-600 text-white text-[13px] font-semibold uppercase tracking-[1px] px-8 py-4"
         >
           See Product
         </Link>
